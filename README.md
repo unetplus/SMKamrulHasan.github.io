@@ -1,3 +1,3 @@
-# SMKamrulHasan.github.io
+# smkamrulhasan.github.io
 
 This is my personal webpage
